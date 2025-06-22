@@ -1,4 +1,4 @@
-# EjemploMicroservicio1
+# Ejemplo de Microservicio
 
 Este es un microservicio de ejemplo que expone cuatro endpoints (`GET`, `POST`, `PUT` y `DELETE`). Fue creado para probar integraciones y no utiliza una base de datos: todas las respuestas están en duro (hardcoded).
 
